@@ -1,3 +1,5 @@
+
+![image alt](https://github.com/Ayan-baksi/AMAZON-SUPERSTORE-DASHBOARD/blob/main/Amazon%20Logo.jpg?raw=true)
 # 📊 Amazon Global Superstore Dashboard (Power BI)
 
 An interactive and visually polished dashboard built using **Microsoft Power BI** to analyze global superstore sales and operations data. The report provides insights into key business metrics such as **Sales**, **Profit**, **Quantity**, and **Order Trends** across different **Regions**, **Product Categories**, and **Customer Segments**.
