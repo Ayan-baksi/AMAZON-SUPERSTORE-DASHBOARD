@@ -57,7 +57,7 @@ The dataset used in this project is publicly available on **Kaggle**:
 ## 📷 Screenshots
 
  
-![Dashboard Overview]([images/dashboard-overview.png](https://github.com/Ayan-baksi/AMAZON-SUPERSTORE-DASHBOARD/blob/main/AMAZON_SUPERSTORE_DASHBOARD.png))
+![image alt](https://github.com/Ayan-baksi/AMAZON-SUPERSTORE-DASHBOARD/blob/main/AMAZON_SUPERSTORE_DASHBOARD.png?raw=true)
 
 ---
 
