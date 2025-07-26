@@ -77,9 +77,4 @@ If you’re a fellow data enthusiast, recruiter, or just exploring BI projects, 
 
 ---
 
-## 📌 License
-
-This project is for educational and portfolio purposes only. Please credit the original Kaggle dataset and this repository if you reuse or share it.
-
----
 
