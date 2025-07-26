@@ -64,7 +64,8 @@ The dataset used in this project is publicly available on **Kaggle**:
 
 If you’re a fellow data enthusiast, recruiter, or just exploring BI projects, feel free to connect:
 
-- [LinkedIn](www.linkedin.com/in/ayan-baksi)
+- [LinkedIn](https://www.linkedin.com/in/ayan-baksi)
+
 
 ---
 
